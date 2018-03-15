@@ -1,0 +1,35 @@
+{
+    "assetclasses": [
+        {
+            "value": 1,
+            "display": "Asset Class 1"
+        },
+        {
+            "value": 2,
+            "display": "Asset Class 2"
+        },
+        {
+            "value": 3,
+            "display": "Asset Class 3"
+        }
+    ],
+    "capabilities": [
+        {
+            "value": 1,
+            "display": "Capability 1"
+        },
+        {
+            "value": 2,
+            "display": "Capability 2"
+        },
+        {
+            "value": 3,
+            "display": "Capability 3"
+        }
+    ],
+    "search": [
+        {
+            "url": "http://google.com"
+        }
+    ]
+}
